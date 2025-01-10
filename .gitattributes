@@ -1,0 +1,3 @@
+# Mark Jupyter Notebook files as binary to avoid merge conflicts
+*.ipynb merge=binary
+* text=auto
