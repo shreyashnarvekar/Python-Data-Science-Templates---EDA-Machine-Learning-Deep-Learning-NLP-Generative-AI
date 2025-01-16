@@ -2,6 +2,7 @@
 
 A collection of easy-to-use Python templates for various Data Science tasks. This repository includes ready-to-use code for:
 
+- **Synatax Cheatsheet**
 - **Exploratory Data Analysis (EDA)**
 - **Machine Learning**
 - **Deep Learning**
@@ -18,15 +19,16 @@ Perfect for:
 A brief overview and recap of essential concepts are included for each section, making it easier to understand and implement the techniques, even if you're revisiting them after a while.
 
 ## Features
-- **EDA:** Quickly explore datasets, visualize key insights, and clean data.
+- **Synatax Cheatsheet:** A quick reference for essential commands in data manipulation, visualization, modeling and evaluation.
+- **EDA:** Quickly explore datasets, visualize key insights and clean data.
 - **Machine Learning:** Implement common algorithms for classification, regression, and clustering.
 - **Deep Learning:** Build and train neural networks for tasks like image and text processing.
-- **NLP:** Work with text data for sentiment analysis, text classification, and more.
-- **Generative AI:** Explore techniques for generating text, images, and other content.
+- **NLP:** Work with text data for sentiment analysis, text classification and more.
+- **Generative AI:** Explore techniques for generating text, images and other content.
 
 ## Installation
 To get started, clone the repository:
 ```bash
-git clone https://github.com/shreyashnarvekar/Python-Data-Science-Templates-EDA-Machine-Learning-Deep-Learning-NLP-Generative-AI.git
+git clone https://github.com/shreyashnarvekar/Python-Data-Science-Templates---EDA-Machine-Learning-Deep-Learning-NLP-Generative-AI.git
 ```
 
