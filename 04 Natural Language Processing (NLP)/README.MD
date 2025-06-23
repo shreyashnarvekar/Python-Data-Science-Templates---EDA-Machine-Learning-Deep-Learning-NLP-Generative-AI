@@ -5,7 +5,7 @@ Step 1 : Go to setting and Generate API key
 
 Step 2 : Create '.env' file in project directory and paste it into langchain api key
 
-    ```python 
+    ```
         LANGCHAIN_API_KEY='API_KEY_HERE'
         OPENAI_API_KEY='API_KEY_HERE'
         LANGCHAIN_PROJECT='PROJECT_NAME_HERE'
