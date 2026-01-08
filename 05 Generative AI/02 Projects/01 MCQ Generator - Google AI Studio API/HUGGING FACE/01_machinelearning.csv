@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is the subset of AI that is focused on algorithms that can learn patterns from training data and make accurate inferences about new data?,a: Deep learning | b: Artificial Intelligence (AI) | c: Machine learning | d: Data science,c
+Which of the following is NOT a real-world application of machine learning?,a: Forecasting models | b: Autonomous vehicles | c: Large language models | d: Farming equipment,d
+What is the process of optimizing a model's performance on a dataset of tasks to make accurate predictions on new data called?,a: Model deployment | b: Model training | c: Model testing | d: Model validation,b
+Which of the following is the central premise of machine learning?,a: Generalization is the translation of strong performance on training data to useful results in real-world scenarios | b: Deep learning is the subset of machine learning driven by large neural networks | c: Machine learning is the study of explicitly defined algorithms | d: AI inference is the deployment of an AI model,a
+"What term is often attributed to Arthur L. Samuel's 1959 article in IBM Journal, where he discussed the idea of a computer learning to play a better game of checkers?",a: Deep learning | b: Machine learning | c: Artificial neural networks | d: Machine learning using the game of Checkers,d
